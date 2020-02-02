@@ -1,3 +1,5 @@
+<?php $hai = "Haii" ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,6 +9,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Hallo apa kabar</h1>
+    <h1>Hallo apa kabar <?= $hai ?></h1>
 </body>
 </html>
