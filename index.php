@@ -9,6 +9,13 @@
     <title>Document</title>
 </head>
 <body>
+    <?php
+    
+    for ($i=0; $i < 10; $i++) { 
+        echo "asdasd";
+    }
+
+    ?>
     <h1>Hallo apa kabar <?= $hai ?></h1>
 </body>
 </html>
