@@ -1,3 +1,3 @@
 function hai() {
-    alert("Asdasd"s)
+    alert("Asdasd")
 }
